@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmdorton or Geri, which is what my friends call me.
 - 👀 I’m interested in drawing, reading and learning, as well as spending time with my family.
-- 🌱 I’m currently learning how to make a portfolio and projects using the knowledge I already know.
+- 🌱 I’m currently learning about DevOps and Software Engineering.
 - 💞️ I’m looking to collaborate on something I can learn from as well as something that pays well, hehe.
 - 📫 You can reach me through email: geraldinedorton@gmail.com
 
